@@ -18,7 +18,7 @@ public class HelloWorldGit {
         // TODO code application logic here
         System.out.println("Hello World");
         System.out.println("Hello GitHub");
-        System.out.println("Now with Pull-Request");
+        System.out.println("Now with Pull-Request!");
     }
 
 }
