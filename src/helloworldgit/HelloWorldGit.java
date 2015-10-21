@@ -7,7 +7,7 @@ package helloworldgit;
 
 /**
  *
- * @author luca
+ * @author TUMcoder
  */
 public class HelloWorldGit {
 
